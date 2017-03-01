@@ -8,7 +8,7 @@
       {
         "network": "Email",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1014px-New_Logo_Gmail.svg.png",
-        "url": "cmedinilla@gmail.com"
+        "url": "cris.medinill@gmail.com"
       },
       {
         "network": "LinkedIn",
@@ -63,7 +63,8 @@
     "Oracle",
     ".Net",
     "ASP .Net",
-    "Rest API"
+    "Rest API",
+    "ReactJS"
   ],
   "languages": [
     {
