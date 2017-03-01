@@ -1,3 +1,8 @@
 ## React-Resume
 
-Simple aplication to create a materialize resume modifying a JSON file
+Simple aplication to create a materialized resume based on a JSON file 
+
+JSON File -> src/resume.json
+
+
+
