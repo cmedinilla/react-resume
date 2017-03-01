@@ -1,2 +1,3 @@
-# react-resume
-A simple resume in ReactJS
+## React-Resume
+
+Simple aplication to create a materialize resume modifying a JSON file
